@@ -1,5 +1,6 @@
 # List of contents:
 
+- Binary Search
 - Sorting Algos - Bubble, Merge, Insertion, Quick, Selection
 - Stacks
 - Queues
