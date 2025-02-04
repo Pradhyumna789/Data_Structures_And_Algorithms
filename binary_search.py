@@ -6,7 +6,7 @@ def binary_search(lst, target):
         mid = (left + right) // 2
         
         if lst[mid] == target:
-            return f"target found at index {mid}"
+            return f"target found at index mid"
         elif lst[mid] < target:
             left = mid + 1 
         else:
